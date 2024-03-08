@@ -1,0 +1,56 @@
+#aee{
+    background-color:#0e0f0f;
+}
+
+#ae{
+      width: 1000px;
+      height: 0;
+      border-top: 100px solid #070807;
+      border-right: 100px solid #0e0f0f; 
+      width:90%;
+}
+#makeitbigandwhite{
+    color:white;
+    font-size:50px;
+    font-weight:bold;
+    font-style
+}
+#smaller{
+    font-size:10px;
+}
+.alignsomestupidstuff{
+    margin-top:-90px;
+}
+.ae{
+    background-color:#0d0c0c;
+    height:500px;
+    width:70%;
+}
+.text{
+    color:white;
+    text-align:left;
+    font-size:30px;
+}
+.heading{
+    color:white;
+    font-size:35px;
+    text-align:left;
+    font-weight:bold;
+}
+#left{
+    margin-right:auto;
+}
+#right{
+    margin-left:auto;
+}
+.ssirc{
+    margin-top:-500;
+}
+.class{
+    margin:auto;
+}
+.sources{
+    color:white;
+    text-align:left;
+    font-size:20px;
+}
